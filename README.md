@@ -19,7 +19,7 @@ Differences against Symfony 2.0.4 Standard Edition
 Why don't you use the deps functionality for vendor libs?
 ---------------------------------------------------------
 
-Because most of my project are afterwards versioned and developed using
+Because most of my projects are afterwards versioned and developed using
 Subversion. The Symfony's deps functionality works with git submodules and
 therefore can be used only when the project is versioned using Git.
 
