@@ -23,7 +23,7 @@ Because most of my projects are afterwards versioned and developed using
 Subversion. The Symfony's deps functionality works with git submodules and
 therefore can be used only when the project is versioned using Git.
 
-Who are you?
-------------
+License
+-------
 
-Jan Vlcek <vlki@vlki.cz>, nice to meet you!
+MIT license. See enclosed `LICENSE` file.
