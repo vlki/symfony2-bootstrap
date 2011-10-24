@@ -24,6 +24,8 @@ clone all vendor libs and then upload everything (Git is not on all of
 my deploy servers). I like to have everything in one repository. And I
 don't update vendor libs much often anyway.
 
+(Capifony seems to have this sorted out in version 2.0.8. I will look at it.)
+
 License
 -------
 
